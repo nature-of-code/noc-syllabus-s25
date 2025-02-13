@@ -16,7 +16,7 @@
 
 ### 7: Mar 6 - [Physics Libraries](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module06-libraries)
 
-### 8: Mar 14 - [Simulation Project](projects/simulation)
+### 8: Mar 13 - [Simulation Project](projects/simulation)
 
 ### 9: Mar 20 - [Fractals and Cellular Automata](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module07-fractals-ca)
 
