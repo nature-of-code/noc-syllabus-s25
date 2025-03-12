@@ -12,7 +12,7 @@ Here are some ideas for projects / technical exercises if you are feeling stuck:
 - Use physics simulation to fabricate something -- a print, a sculpture, etc.
 - Apply the concepts of motion to non-visual media, what does it mean for video playback or sound synthesis to respond to forces and emulate physical behaviors.
 
-Document your project in a blog post and come prepared to share your work for ~3-5 minutes. You are not required to have a slide deck, however, you might find slides useful to help you plan and structure your demo. Add a link to your documentation to the [Simulation Project wiki](https://github.com/nature-of-code/noc-syllabus-S25/wiki/Simulation-Project).
+Document your project in a blog post and come prepared to share your work for ~3-5 minutes. You are not required to have a slide deck, however, you might find slides useful to help you plan and structure your demo. Add a link to your documentation to the [Simulation Project wiki](https://github.com/nature-of-code/noc-syllabus-S25/wiki/ITP-Simulation).
 
 Consider including:
 
