@@ -39,7 +39,7 @@ The testing will follow a speed "round robin" format. The class will be divided 
 
 It's up to you to design your "testing". It can mean something different for different projects. For an interactive web page, it's pretty obvious what to do. For a physical installation or performance or twitter bot, this will be more difficult. The "rule" that we will try to adhere to is no explaining of the project until after the user has viewed/interacted.
 
-If you are not sure how to design your testing, e-mail me and we'll discuss. [Schedule and groups are on the course wiki (TBD)](https://github.com/nature-of-code/noc-syllabus-S25/wiki).
+If you are not sure how to design your testing, e-mail me and we'll discuss. [Schedule and groups are on the course wiki](https://github.com/nature-of-code/noc-syllabus-S25/wiki).
 
 ## Final Project Presentations (May 1)
 
